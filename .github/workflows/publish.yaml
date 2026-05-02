@@ -25,7 +25,6 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.133.1'
           extended: true
 
       - name: Build site
@@ -33,9 +32,8 @@ jobs:
           hugo mod get -u
           hugo
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
-        if: github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+      - name: Push the gh-pages branch
+        run: |
+          git add -A --force
+          git commit -m"rebuilding site from ${{ github.sha }}"
+          git push upstream `git subtree split --prefix=public --ignore-joins`:gh-pages --force
