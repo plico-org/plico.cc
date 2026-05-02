@@ -1,4 +1,4 @@
-module github.com/pidgeot-org/pidgeot.org
+module github.com/plico/plico.cc
 
 go 1.23
 

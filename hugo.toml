@@ -1,11 +1,11 @@
-baseURL = '/'
+baseURL = 'https://plico-org.github.io/plico.cc/'
 languageCode = 'en-us'
-title = 'Pidgeot Project'
+title = 'Plico'
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Pidgeot Project"
+    title = "Plico"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
@@ -23,7 +23,7 @@ title = 'Pidgeot Project'
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Pidgeot Project"
+        logoText = "Plico"
         logoHomeLink = "/"
 
       [languages.en.menu]
