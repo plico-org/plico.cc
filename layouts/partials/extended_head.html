@@ -1,0 +1,26 @@
+{{ if and .IsHome (eq .Site.Language.Lang "en") }}
+{{- range .Site.Home.AllTranslations -}}
+{{- if eq .Language.Lang "it" -}}
+<div id="plico-lang-redirect" hidden data-it-path="{{ .RelPermalink }}"></div>
+{{- end -}}
+{{- end -}}
+<script>
+(function () {
+  try {
+    var manual = sessionStorage.getItem('plico_lang_manual');
+    if (manual === 'en') return;
+    var el = document.getElementById('plico-lang-redirect');
+    var itPath = el && el.getAttribute('data-it-path');
+    if (!itPath) return;
+    var langs = navigator.languages || [navigator.language || 'en'];
+    for (var i = 0; i < langs.length; i++) {
+      var code = String(langs[i]).toLowerCase().split('-')[0];
+      if (code === 'it') {
+        window.location.replace(itPath);
+        break;
+      }
+    }
+  } catch (e) {}
+})();
+</script>
+{{ end }}
