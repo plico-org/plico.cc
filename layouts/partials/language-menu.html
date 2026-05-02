@@ -1,0 +1,16 @@
+<ul class="menu menu--desktop menu--language-selector">
+  <li class="menu__trigger">{{ .Language.LanguageName }}&nbsp;▾</li>
+  <li>
+    <ul class="menu__dropdown">
+      {{ if .AllTranslations }}
+        {{ range .AllTranslations }}
+          <li><a href="{{ .Permalink }}" onclick='sessionStorage.setItem("plico_lang_manual","{{ .Language.Lang }}")'>{{ .Language.LanguageName }}</a></li>
+        {{ end }}
+      {{ else }}
+        {{ range $.Site.Home.AllTranslations }}
+          <li><a href="{{ .Permalink }}" onclick='sessionStorage.setItem("plico_lang_manual","{{ .Language.Lang }}")'>{{ .Language.LanguageName }}</a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </li>
+</ul>

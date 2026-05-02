@@ -1,0 +1,28 @@
+{{ if and .IsHome (eq .Site.Language.Lang "en") }}
+{{- $itHome := "" -}}
+{{- range .Site.Home.AllTranslations -}}
+{{- if eq .Language.Lang "it" -}}{{- $itHome = .RelPermalink -}}{{- end -}}
+{{- end -}}
+{{- with $itHome -}}
+<meta name="plico-it-home" content="{{ . }}">
+<script>
+(function () {
+  try {
+    var manual = sessionStorage.getItem('plico_lang_manual');
+    if (manual === 'en') return;
+    var meta = document.querySelector('meta[name="plico-it-home"]');
+    var itPath = meta && meta.getAttribute('content');
+    if (!itPath) return;
+    var langs = navigator.languages || [navigator.language || 'en'];
+    for (var i = 0; i < langs.length; i++) {
+      var code = String(langs[i]).toLowerCase().split('-')[0];
+      if (code === 'it') {
+        window.location.replace(itPath);
+        break;
+      }
+    }
+  } catch (e) {}
+})();
+</script>
+{{- end -}}
+{{ end }}

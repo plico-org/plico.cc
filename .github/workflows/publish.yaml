@@ -28,9 +28,11 @@ jobs:
           extended: true
 
       - name: Build site
+        env:
+          HUGO_ENV: production
         run: |
           hugo mod get -u
-          hugo
+          hugo --environment production
 
       - name: Push the gh-pages branch
         run: |
