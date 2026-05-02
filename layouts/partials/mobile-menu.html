@@ -8,8 +8,9 @@
         {{ end }}
       {{ end }}
       {{ if and $.Site.Params.showLanguageSelector (gt (len $.Site.Home.AllTranslations) 1) }}
+        {{ $translations := $.AllTranslations | default $.Site.Home.AllTranslations }}
         <li class="menu__separator" aria-hidden="true"><hr></li>
-        {{ range $.Site.Home.AllTranslations }}
+        {{ range $translations }}
           <li>
             <a href="{{ .Permalink }}" onclick='sessionStorage.setItem("plico_lang_manual","{{ .Language.Lang }}")'>{{ .Language.LanguageName }}</a>
           </li>
