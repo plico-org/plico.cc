@@ -3,7 +3,7 @@
     <div class="header__logo">
       {{ partial "logo.html" . }}
     </div>
-    {{ if len $.Site.Menus }}
+    {{ if or (gt (len $.Site.Menus.main) 0) (and $.Site.Params.showLanguageSelector (gt (len $.Site.Home.AllTranslations) 1)) }}
       {{ partial "mobile-menu.html" . }}
     {{ end }}
     {{ if and $.Site.Params.showLanguageSelector (gt (len $.Site.Home.AllTranslations) 1) }}
