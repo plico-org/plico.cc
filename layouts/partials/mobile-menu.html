@@ -7,8 +7,8 @@
           <li><a href="{{ .URL }}">{{ .Name }}</a></li>
         {{ end }}
       {{ end }}
-      {{ if and $.Site.Params.showLanguageSelector (len $.Site.Home.AllTranslations) }}
-        <hr />
+      {{ if and $.Site.Params.showLanguageSelector (gt (len $.Site.Home.AllTranslations) 1) }}
+        <li class="menu__separator" aria-hidden="true"><hr></li>
         {{ range $.Site.Home.AllTranslations }}
           <li>
             <a href="{{ .Permalink }}" onclick='sessionStorage.setItem("plico_lang_manual","{{ .Language.Lang }}")'>{{ .Language.LanguageName }}</a>

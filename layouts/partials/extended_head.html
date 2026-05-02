@@ -1,16 +1,17 @@
 {{ if and .IsHome (eq .Site.Language.Lang "en") }}
+{{- $itHome := "" -}}
 {{- range .Site.Home.AllTranslations -}}
-{{- if eq .Language.Lang "it" -}}
-<div id="plico-lang-redirect" hidden data-it-path="{{ .RelPermalink }}"></div>
+{{- if eq .Language.Lang "it" -}}{{- $itHome = .RelPermalink -}}{{- end -}}
 {{- end -}}
-{{- end -}}
+{{- with $itHome -}}
+<meta name="plico-it-home" content="{{ . }}">
 <script>
 (function () {
   try {
     var manual = sessionStorage.getItem('plico_lang_manual');
     if (manual === 'en') return;
-    var el = document.getElementById('plico-lang-redirect');
-    var itPath = el && el.getAttribute('data-it-path');
+    var meta = document.querySelector('meta[name="plico-it-home"]');
+    var itPath = meta && meta.getAttribute('content');
     if (!itPath) return;
     var langs = navigator.languages || [navigator.language || 'en'];
     for (var i = 0; i < langs.length; i++) {
@@ -23,4 +24,5 @@
   } catch (e) {}
 })();
 </script>
+{{- end -}}
 {{ end }}
