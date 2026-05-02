@@ -1,0 +1,38 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Pidgeot Project'
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    title = "Pidgeot Project"
+
+    [languages.en.params]
+      subtitle = "A simple, retro theme for Hugo"
+      owner = ""
+      keywords = ""
+      copyright = ""
+      menuMore = "Show more"
+      readMore = "Read more"
+      readOtherPosts = "Read other posts"
+      newerPosts = "Newer posts"
+      olderPosts = "Older posts"
+      missingContentMessage = "Page not found..."
+      missingBackButtonLabel = "Back to home page"
+      minuteReadingTime = "min read"
+      words = "words"
+
+      [languages.en.params.logo]
+        logoText = "Pidgeot Project"
+        logoHomeLink = "/"
+
+      [languages.en.menu]
+        [[languages.en.menu.main]]
+          identifier = "about"
+          name = "About"
+          url = "/about"
+
+
+[module]
+[[module.imports]]
+  path = 'github.com/panr/hugo-theme-terminal/v4'
