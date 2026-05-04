@@ -37,7 +37,7 @@ Il Sito è ospitato su GitHub Pages. Quando visiti le pagine, GitHub può tratta
 
 Il trattamento dei pochi dati tecnici necessari avviene sulla base del legittimo interesse del Titolare a fornire un servizio sicuro e funzionante. Ai sensi del GDPR, hai il diritto di richiedere informazioni sui dati trattati o di opporti al loro trattamento contattandoci, sebbene la natura anonima e locale dei nostri servizi limiti drasticamente i dati in nostro possesso. 
 
-## 7. Modifiche e Collegamenti
+## 7. Modifiche e Collegamenti
 
 Le pagine possono contenere collegamenti a siti esterni, le cui privacy policy sono di loro esclusiva competenza. Possiamo aggiornare questa informativa di tanto in tanto per riflettere modifiche legali o tecniche; la data di "Ultimo aggiornamento" indicherà la versione più recente.  
 
