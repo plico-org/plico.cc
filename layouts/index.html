@@ -1,19 +1,25 @@
 {{ define "main" }}
-  <main aria-role="main">
-    <header class="home-page-header">
-      <h1>{{ .Title }}</h1>
-      {{ with .Params.subtitle }}
-        <span class="subtitle">{{ . }}</span>
-      {{ end }}
-    </header>
-    <div class="home-page-content">
-      <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
-      {{ .Content }}
-    </div>
-    <div>
-      {{ range first 10 .Site.RegularPages }}
-        {{ .Render "summary" }}
-      {{ end }}
-    </div>
+  <main class="mx-auto mt-10 w-full max-w-6xl px-4 sm:px-6 lg:mt-12 lg:px-8" aria-label="{{ T "mainNavigation" }}">
+    <section class="grid grid-cols-1 items-center gap-10 rounded-3xl border border-brand/20 bg-white/95 p-6 shadow-card sm:p-8 lg:grid-cols-2 lg:gap-12 lg:p-10">
+      <div class="order-2 lg:order-1">
+        <h1 class="max-w-xl text-4xl font-extrabold leading-tight tracking-tight text-[#1a1a1a] sm:text-5xl">{{ T "heroTitle" }}</h1>
+        <p class="mt-4 max-w-xl text-base leading-relaxed text-[#1a1a1a]/75 sm:text-lg">{{ T "heroSubtitle" }}</p>
+
+        <div class="mt-8 flex flex-wrap items-center gap-3 sm:gap-4" aria-label="{{ T "mainNavigation" }}">
+          <a href="#" aria-label="{{ T "appStoreAlt" }}" class="transition hover:scale-[1.02] hover:opacity-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand focus-visible:ring-offset-2">
+            <img src="{{ "assets/Download_on_the_App_Store_Badge.png" | relURL }}" alt="{{ T "appStoreAlt" }}" class="h-11 w-auto sm:h-12" />
+          </a>
+          <a href="#" aria-label="{{ T "googlePlayAlt" }}" class="transition hover:scale-[1.02] hover:opacity-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand focus-visible:ring-offset-2">
+            <img src="{{ "assets/Google_Play_Store_badge.png" | relURL }}" alt="{{ T "googlePlayAlt" }}" class="h-11 w-auto sm:h-12" />
+          </a>
+        </div>
+      </div>
+
+      <div class="order-1 lg:order-2">
+        <div class="overflow-hidden rounded-2xl border border-brand/20 bg-brand-soft/60 p-2 shadow-card sm:p-3">
+          <img src="{{ "assets/product-landing-page.png" | relURL }}" alt="{{ T "productImageAlt" }}" class="h-auto w-full rounded-xl" />
+        </div>
+      </div>
+    </section>
   </main>
 {{ end }}
