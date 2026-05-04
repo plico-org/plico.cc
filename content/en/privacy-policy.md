@@ -1,42 +1,46 @@
 ---
 title: Privacy Policy
-description: How this site handles data and your privacy.
+description: How Plico processes data and handles your privacy.
 ---
 
 Last updated: May 2026.
 
-## Overview
+## 1. Overview
 
-This website (“**Site**”) is a static site. We aim to collect as little information as possible.
+This policy describes the data processing practices for the Plico website ("Site") and mobile application for iOS and Android ("Application"). The Data Controller is represented by the Plico developers, reachable at the contact details provided in the "Contact" section. Our goal is to minimise data collection and ensure full transparency.
 
-## What we do not do
+## 2. What We Don't Do
 
-- We do not sell your personal data.
-- We do not run user accounts or logins on this Site.
-- We do not embed third‑party advertising trackers on this Site.
+- **No accounts:** We do not manage user accounts, registrations, or logins.
+- **No profiling:** We do not use your data for marketing, advertising, or behavioural profiling purposes.
+- **No trackers:** We do not embed third-party advertising trackers.
+- **No selling:** We do not sell or transfer your data to third parties.
 
-## Hosting and logs
+## 3. Mobile Application (iOS/Android)
 
-The Site is hosted on **GitHub Pages**. When you visit pages, GitHub (and networks between you and GitHub) may process technical data typically found in server or CDN logs, such as IP address, requested URL, referrer, user agent, and timestamp. That processing is governed by [GitHub’s privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+The Plico application is designed according to the _privacy by design_ principle:
 
-## Language preference on your device
+- **Local Processing:** All PDF files are processed exclusively on your device. No document is ever sent to our servers or to third parties.
 
-To remember that you explicitly chose a language in the menu, this Site may store a short value in your browser’s **session storage** (`plico_lang_manual`). It is kept only for that browsing session and is not sent to us as a separate database record.
+- **Distribution:** The Application is distributed via the App Store (Apple) and Google Play Store. These services may collect data about installation and usage in accordance with their respective privacy policies.
 
-The Site may also read your browser’s language settings to suggest a default language when you open the English homepage. That happens locally in your browser.
+## 4. Website (Hosting and Logs)
 
-## Cookies
+The Site is hosted on GitHub Pages. When you visit the pages, GitHub may process technical data typical of server logs (such as IP address, browser type, and date/time) to ensure the security and stability of the service. This processing is governed by [GitHub's privacy policy](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
-This Site does not use cookies for its own essential operation beyond what your browser or GitHub may apply as part of normal web delivery. If we add analytics or other tools that use cookies in the future, we will update this page.
+## 5. Preferences and Cookies
 
-## Links
+- **Session Storage:** To remember the language selected from the menu, the Site saves a temporary value in your browser's session storage (`plico_lang_manual`). This value is not sent to us and is removed when the session ends.
+- **Cookies:** This Site does not use profiling or third-party cookies. Technical cookies may be used solely for the purpose of delivering the web service.
 
-Pages may link to other websites. Their privacy practices are their own.
+## 6. Legal Basis and Rights
 
-## Changes
+The processing of the limited technical data involved is based on the legitimate interest of the Data Controller in providing a secure and functioning service. Under the GDPR, you have the right to request information about the data being processed or to object to its processing by contacting us, although the anonymous and local nature of our services means the personal data we hold is minimal or absent.
 
-We may update this policy from time to time. The “Last updated” date will change when we do.
+## 7. Changes and Links
 
-## Contact
+Pages may contain links to external sites, whose privacy policies are their sole responsibility. We may update this policy from time to time to reflect legal or technical changes; the "Last updated" date will indicate the most recent version.
 
-For privacy questions about this Site, please reach out via the contact details published on the Site (for example on the About page), if any.
+## 8. Contact
+
+For privacy-related questions about the Site or the Application, you can reach us via the contact details provided on the Site or by writing to: [luigi.gubello@protonmail.com](mailto:luigi.gubello@protonmail.com)

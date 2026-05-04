@@ -1,42 +1,46 @@
 ---
 title: Informativa sulla privacy
-description: Come questo sito tratta i dati e la tua privacy.
+description: Come Plico tratta i dati e la tua privacy.
 ---
 
 Ultimo aggiornamento: maggio 2026.
 
-## Panoramica
+## 1. Panoramica
 
-Questo sito web (“**Sito**”) è un sito statico. Il nostro obiettivo è raccogliere il minor numero possibile di informazioni.
+La presente informativa descrive le modalità di trattamento dei dati relative al sito web ("Sito") e all'applicazione mobile per iOS e Android ("Applicazione") di Plico. Il Titolare del trattamento è rappresentato dagli sviluppatori di Plico, contattabili ai recapiti indicati nella sezione "Contatti". Il nostro obiettivo è ridurre al minimo la raccolta di informazioni e garantire la massima trasparenza. 
 
-## Cosa non facciamo
+## 2. Cosa non facciamo
 
-- Non vendiamo i tuoi dati personali.
-- Non gestiamo account utente o accessi su questo Sito.
-- Non incorporiamo tracker pubblicitari di terze parti su questo Sito.
+- **Nessun account:** Non gestiamo account utente, registrazioni o accessi.  
+- **Nessuna profilazione:** Non utilizziamo i tuoi dati per finalità di marketing, pubblicità o profilazione comportamentale.  
+- **Nessun tracker:** Non incorporiamo tracker pubblicitari di terze parti. 
+- **Nessuna vendita:** Non vendiamo né cediamo i tuoi dati a terzi.  
 
-## Hosting e log
+## 3. Applicazione Mobile (iOS/Android)
 
-Il Sito è ospitato su **GitHub Pages**. Quando visiti le pagine, GitHub (e le reti tra te e GitHub) possono trattare dati tecnici tipici dei log di server o CDN, come indirizzo IP, URL richiesto, referrer, user agent e data/ora. Tale trattamento è disciplinato dall’[informativa sulla privacy di GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+L'applicazione Plico è progettata secondo il principio della _privacy by design_:  
 
-## Preferenza di lingua sul tuo dispositivo
+- **Elaborazione Locale:** Tutti i file PDF vengono processati esclusivamente sul tuo dispositivo. Nessun documento viene mai inviato ai nostri server o a terze parti.  
 
-Per ricordare che hai scelto esplicitamente una lingua dal menu, questo Sito può salvare un breve valore nella **session storage** del browser (`plico_lang_manual`). Viene conservato solo per la sessione di navigazione corrente e non ci viene inviato come archivio separato.
+- **Distribuzione:** L'Applicazione è distribuita tramite l'App Store (Apple) e il Google Play Store. Questi servizi possono raccogliere dati sull'installazione e l'utilizzo secondo le rispettive informative sulla privacy.
 
-Il Sito può anche leggere le impostazioni della lingua del browser per suggerire una lingua predefinita quando apri la homepage in inglese. Ciò avviene localmente nel tuo browser.
+## 4. Sito Web (Hosting e Log)
 
-## Cookie
+Il Sito è ospitato su GitHub Pages. Quando visiti le pagine, GitHub può trattare dati tecnici tipici dei log di server (come indirizzo IP, tipo di browser e data/ora) per garantire la sicurezza e la stabilità del servizio. Tale trattamento è disciplinato dall'[informativa sulla privacy di GitHub](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
-Questo Sito non utilizza cookie per il proprio funzionamento essenziale oltre a quanto il browser o GitHub possono applicare nell’ambito della normale erogazione web. Se in futuro aggiungessimo strumenti di analisi o altri servizi che utilizzano cookie, aggiorneremo questa pagina.
+## 5. Preferenze e Cookie
 
-## Collegamenti
+- **Session Storage:** Per ricordare la lingua scelta dal menu, il Sito salva un valore temporaneo nella session storage del tuo browser (`plico_lang_manual`). Questo valore non ci viene inviato e viene rimosso alla chiusura della sessione.  
+- **Cookie:** Questo Sito non utilizza cookie di profilazione o di terze parti. Eventuali cookie tecnici potrebbero essere utilizzati esclusivamente per l'erogazione del servizio web.  
 
-Le pagine possono contenere collegamenti ad altri siti. Le loro informative sulla privacy sono di loro competenza.
+## 6. Base Giuridica e Diritti
 
-## Modifiche
+Il trattamento dei pochi dati tecnici necessari avviene sulla base del legittimo interesse del Titolare a fornire un servizio sicuro e funzionante. Ai sensi del GDPR, hai il diritto di richiedere informazioni sui dati trattati o di opporti al loro trattamento contattandoci, sebbene la natura anonima e locale dei nostri servizi limiti drasticamente i dati in nostro possesso. 
 
-Possiamo aggiornare questa informativa di tanto in tanto. La data di “Ultimo aggiornamento” sarà modificata di conseguenza.
+## 7. Modifiche e Collegamenti
 
-## Contatti
+Le pagine possono contenere collegamenti a siti esterni, le cui privacy policy sono di loro esclusiva competenza. Possiamo aggiornare questa informativa di tanto in tanto per riflettere modifiche legali o tecniche; la data di "Ultimo aggiornamento" indicherà la versione più recente.  
 
-Per domande sulla privacy relative a questo Sito, puoi contattarci tramite i recapiti indicati sul Sito (ad esempio nella pagina Informazioni), se presenti.
+## 8. Contatti
+
+Per domande sulla privacy relative al Sito o all'Applicazione, puoi contattarci tramite i recapiti indicati sul Sito o scrivendo a: [luigi.gubello@protonmail.com](mailto:luigi.gubello@protonmail.com)
