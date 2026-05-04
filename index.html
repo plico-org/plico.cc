@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="it">
+  <head>
+	<meta name="generator" content="Hugo 0.161.1">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Plico</title>
+    <meta name="description" content="Plico: app iOS e Android per firmare PDF localmente sul dispositivo." />
+    <link rel="icon" type="image/png" href="/assets/icon.png" />
+
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              brand: {
+                DEFAULT: "#03a9f4",
+                soft: "#e7f7ff",
+                deep: "#0288d1"
+              }
+            },
+            fontFamily: {
+              sans: ["Manrope", "ui-sans-serif", "system-ui", "sans-serif"]
+            },
+            boxShadow: {
+              card: "0 15px 35px rgba(2, 136, 209, 0.15)"
+            }
+          }
+        }
+      }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet" />
+  </head>
+  <body class="bg-white text-[#1a1a1a] antialiased">
+    <div class="min-h-screen bg-[radial-gradient(circle_at_top_right,_rgba(3,169,244,0.12),_transparent_50%),radial-gradient(circle_at_bottom_left,_rgba(3,169,244,0.08),_transparent_45%)]">
+      <header class="mx-auto w-full max-w-6xl px-4 pt-6 sm:px-6 lg:px-8">
+        <div class="flex items-center justify-between rounded-2xl border border-brand/20 bg-white/90 px-4 py-3 shadow-sm backdrop-blur sm:px-5">
+          <a href="/" class="inline-flex items-center gap-3" aria-label="Vai alla home di Plico">
+            <img src="/assets/icon.png" alt="Icona dell&#39;app Plico" class="h-10 w-10 rounded-xl" />
+            <span class="text-lg font-extrabold tracking-tight text-[#1a1a1a]">Plico</span>
+          </a>
+          <nav aria-label="Selettore lingua" class="flex items-center gap-1 rounded-full border border-brand/20 bg-brand-soft/60 p-1">
+            
+              <a
+                href="/"
+                class="rounded-full px-3 py-1 text-xs font-extrabold tracking-wide transition bg-brand text-white shadow-sm"
+                aria-current="page"
+              >
+                IT
+              </a>
+            
+              <a
+                href="/en/"
+                class="rounded-full px-3 py-1 text-xs font-extrabold tracking-wide transition text-[#1a1a1a]/75 hover:bg-brand/15"
+                aria-current="false"
+              >
+                EN
+              </a>
+            
+          </nav>
+        </div>
+      </header>
+
+      
+  <main class="mx-auto mt-10 w-full max-w-6xl px-4 sm:px-6 lg:mt-12 lg:px-8" aria-label="Navigazione principale">
+    <section class="grid grid-cols-1 items-center gap-10 rounded-3xl border border-brand/20 bg-white/95 p-6 shadow-card sm:p-8 lg:grid-cols-2 lg:gap-12 lg:p-10">
+      <div class="order-2 lg:order-1">
+        <h1 class="max-w-xl text-4xl font-extrabold leading-tight tracking-tight text-[#1a1a1a] sm:text-5xl">Plico. Firma semplicemente.</h1>
+        <p class="mt-4 max-w-xl text-base leading-relaxed text-[#1a1a1a]/75 sm:text-lg">Firma i tuoi documenti PDF velocemente e facilmente. Senza che lascino mai il tuo dispositivo.</p>
+
+        <div class="mt-8 flex flex-wrap items-center gap-3 sm:gap-4" aria-label="Navigazione principale">
+          <a href="#" aria-label="Scarica Plico su App Store" class="transition hover:scale-[1.02] hover:opacity-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand focus-visible:ring-offset-2">
+            <img src="/assets/Download_on_the_App_Store_Badge.png" alt="Scarica Plico su App Store" class="h-11 w-auto sm:h-12" />
+          </a>
+          <a href="#" aria-label="Scarica Plico su Google Play" class="transition hover:scale-[1.02] hover:opacity-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand focus-visible:ring-offset-2">
+            <img src="/assets/Google_Play_Store_badge.png" alt="Scarica Plico su Google Play" class="h-11 w-auto sm:h-12" />
+          </a>
+        </div>
+      </div>
+
+      <div class="order-1 lg:order-2">
+        <div class="overflow-hidden rounded-2xl border border-brand/20 bg-brand-soft/60 p-2 shadow-card sm:p-3">
+          <img src="/assets/product-landing-page.png" alt="Screenshot della landing page di Plico" class="h-auto w-full rounded-xl" />
+        </div>
+      </div>
+    </section>
+  </main>
+
+
+      <footer class="mx-auto mt-16 w-full max-w-6xl px-4 pb-8 sm:px-6 lg:px-8">
+        <div class="flex flex-col items-start justify-between gap-4 rounded-2xl border border-brand/20 bg-white/90 px-4 py-5 text-sm shadow-sm sm:flex-row sm:items-center sm:px-5">
+          <p class="text-[#1a1a1a]/70">Plico. Firma PDF locale su iOS e Android.</p>
+          <ul class="flex items-center gap-4 text-brand">
+            <li>
+              <a class="font-semibold transition hover:text-brand-deep" href="/privacy-policy">Privacy Policy</a>
+            </li>
+            <li>
+              <a class="font-semibold transition hover:text-brand-deep" href="/terms-and-conditions">Terms and Conditions</a>
+            </li>
+          </ul>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

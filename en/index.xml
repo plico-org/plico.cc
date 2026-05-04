@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plico</title>
+    <link>https://plico.cc/en/</link>
+    <description>Recent content on Plico</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://plico.cc/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://plico.cc/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://plico.cc/en/about/</guid>
+      <description>&lt;p&gt;This site is built with &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; and the Terminal theme.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://plico.cc/en/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://plico.cc/en/privacy-policy/</guid>
+      <description>&lt;p&gt;Last updated: May 2026.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-overview&#34;&gt;1. Overview&lt;/h2&gt;&#xA;&lt;p&gt;This policy describes the data processing practices for the Plico website (&amp;ldquo;Site&amp;rdquo;) and mobile application for iOS and Android (&amp;ldquo;Application&amp;rdquo;). The Data Controller is represented by the Plico developers, reachable at the contact details provided in the &amp;ldquo;Contact&amp;rdquo; section. Our goal is to minimise data collection and ensure full transparency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-what-we-dont-do&#34;&gt;2. What We Don&amp;rsquo;t Do&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;No accounts:&lt;/strong&gt; We do not manage user accounts, registrations, or logins.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;No profiling:&lt;/strong&gt; We do not use your data for marketing, advertising, or behavioural profiling purposes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;No trackers:&lt;/strong&gt; We do not embed third-party advertising trackers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;No selling:&lt;/strong&gt; We do not sell or transfer your data to third parties.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;3-mobile-application-iosandroid&#34;&gt;3. Mobile Application (iOS/Android)&lt;/h2&gt;&#xA;&lt;p&gt;The Plico application is designed according to the &lt;em&gt;privacy by design&lt;/em&gt; principle:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Terms and Conditions</title>
+      <link>https://plico.cc/en/terms-and-conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://plico.cc/en/terms-and-conditions/</guid>
+      <description>&lt;p&gt;Last updated: May 2026.&lt;/p&gt;&#xA;&lt;p&gt;The Plico application (hereinafter referred to as &amp;ldquo;the Application&amp;rdquo;) is owned by Luigi Gubello and Massimiliano Pippi (hereinafter referred to as &amp;ldquo;the Owner&amp;rdquo;). Installing and using the Application implies full acceptance of these Terms and Conditions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-license-and-intellectual-property&#34;&gt;1. License and Intellectual Property&lt;/h2&gt;&#xA;&lt;p&gt;The Application is licensed. The following are prohibited, to the extent permitted by applicable law:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Distributing or reselling the Application to third parties.&lt;/li&gt;&#xA;&lt;li&gt;Using the Application for unlawful purposes.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;2-nature-of-the-service&#34;&gt;2. Nature of the Service&lt;/h2&gt;&#xA;&lt;p&gt;The Application is provided free of charge. The Owner reserves the right to:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

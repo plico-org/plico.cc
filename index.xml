@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Plico</title>
+    <link>https://plico.cc/</link>
+    <description>Recent content on Plico</description>
+    <generator>Hugo</generator>
+    <language>it-it</language>
+    <atom:link href="https://plico.cc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Informativa sulla privacy</title>
+      <link>https://plico.cc/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://plico.cc/privacy-policy/</guid>
+      <description>&lt;p&gt;Ultimo aggiornamento: maggio 2026.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-panoramica&#34;&gt;1. Panoramica&lt;/h2&gt;&#xA;&lt;p&gt;La presente informativa descrive le modalità di trattamento dei dati relative al sito web (&amp;ldquo;Sito&amp;rdquo;) e all&amp;rsquo;applicazione mobile per iOS e Android (&amp;ldquo;Applicazione&amp;rdquo;) di Plico. Il Titolare del trattamento è rappresentato dagli sviluppatori di Plico, contattabili ai recapiti indicati nella sezione &amp;ldquo;Contatti&amp;rdquo;. Il nostro obiettivo è ridurre al minimo la raccolta di informazioni e garantire la massima trasparenza.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-cosa-non-facciamo&#34;&gt;2. Cosa non facciamo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nessun account:&lt;/strong&gt; Non gestiamo account utente, registrazioni o accessi.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nessuna profilazione:&lt;/strong&gt; Non utilizziamo i tuoi dati per finalità di marketing, pubblicità o profilazione comportamentale.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nessun tracker:&lt;/strong&gt; Non incorporiamo tracker pubblicitari di terze parti.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nessuna vendita:&lt;/strong&gt; Non vendiamo né cediamo i tuoi dati a terzi.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;3-applicazione-mobile-iosandroid&#34;&gt;3. Applicazione Mobile (iOS/Android)&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;applicazione Plico è progettata secondo il principio della &lt;em&gt;privacy by design&lt;/em&gt;:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Informazioni</title>
+      <link>https://plico.cc/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://plico.cc/about/</guid>
+      <description>&lt;p&gt;Questo sito è realizzato con &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; e il tema Terminal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Termini e Condizioni</title>
+      <link>https://plico.cc/terms-and-conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://plico.cc/terms-and-conditions/</guid>
+      <description>&lt;p&gt;Ultimo aggiornamento: maggio 2026.&lt;/p&gt;&#xA;&lt;p&gt;L&amp;rsquo;applicazione Plico (di seguito &amp;ldquo;l&amp;rsquo;Applicazione&amp;rdquo;) è di proprietà di Luigi Gubello e Massimiliano Pippi (di seguito indicati come &amp;ldquo;il Titolare&amp;rdquo;). L&amp;rsquo;installazione e l&amp;rsquo;utilizzo dell&amp;rsquo;Applicazione implicano l&amp;rsquo;accettazione integrale dei presenti Termini e Condizioni.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-licenza-duso-e-proprietà-intellettuale&#34;&gt;1. Licenza d&amp;rsquo;Uso e Proprietà Intellettuale&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;Applicazione è fornita in licenza d&amp;rsquo;uso. All&amp;rsquo;utente è vietato, nei limiti consentiti dalla legge applicabile:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Distribuire o rivendere l&amp;rsquo;Applicazione a terzi.&lt;/li&gt;&#xA;&lt;li&gt;Utilizzare l&amp;rsquo;Applicazione per scopi illeciti.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;2-natura-del-servizio&#34;&gt;2. Natura del Servizio&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;Applicazione è fornita a titolo gratuito. Il Titolare si riserva il diritto di:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
