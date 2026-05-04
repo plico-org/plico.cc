@@ -33,6 +33,13 @@ enableMissingTranslationPlaceholders = false
         identifier = 'about'
         name = 'About'
         pageRef = '/about'
+        weight = 10
+
+      [[languages.en.menu.main]]
+        identifier = 'privacy'
+        name = 'Privacy'
+        pageRef = '/privacy-policy'
+        weight = 20
 
   [languages.it]
     languageCode = 'it-it'
@@ -64,6 +71,13 @@ enableMissingTranslationPlaceholders = false
         identifier = 'about'
         name = 'Informazioni'
         pageRef = '/about'
+        weight = 10
+
+      [[languages.it.menu.main]]
+        identifier = 'privacy'
+        name = 'Privacy'
+        pageRef = '/privacy-policy'
+        weight = 20
 
 
 [module]
