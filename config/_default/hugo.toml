@@ -1,13 +1,13 @@
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'it'
 defaultContentLanguageInSubdir = false
 enableMissingTranslationPlaceholders = false
 
 [languages]
   [languages.en]
-    languageCode = 'en-us'
-    languageName = 'English'
+    locale = 'en-us'
+    label = 'English'
     title = 'Plico'
-    weight = 1
+    weight = 2
     contentDir = 'content/en'
 
     [languages.en.params]
@@ -48,10 +48,10 @@ enableMissingTranslationPlaceholders = false
         weight = 30
 
   [languages.it]
-    languageCode = 'it-it'
-    languageName = 'Italiano'
+    locale = 'it-it'
+    label = 'Italiano'
     title = 'Plico'
-    weight = 2
+    weight = 1
     contentDir = 'content/it'
 
     [languages.it.params]

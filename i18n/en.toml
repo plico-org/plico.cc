@@ -1,0 +1,41 @@
+[metaDescription]
+other = "Plico: iOS and Android app to sign PDF documents locally on-device."
+
+[brandAriaLabel]
+other = "Go to the Plico homepage"
+
+[brandIconAlt]
+other = "Plico app icon"
+
+[mainNavigation]
+other = "Main navigation"
+
+[languageSwitcher]
+other = "Language switcher"
+
+[navPlaceholder]
+other = "Coming soon"
+
+[heroTitle]
+other = "Plico. Sign simply."
+
+[heroSubtitle]
+other = "Sign your PDF documents quickly and easily. Without them ever leaving your device."
+
+[appStoreAlt]
+other = "Download Plico on the App Store"
+
+[googlePlayAlt]
+other = "Download Plico on Google Play"
+
+[productImageAlt]
+other = "Screenshot of Plico landing page"
+
+[footerNote]
+other = "Plico. Local PDF signing on iOS and Android."
+
+[privacyPolicy]
+other = "Privacy Policy"
+
+[termsAndConditions]
+other = "Terms and Conditions"
