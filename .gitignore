@@ -2,5 +2,5 @@
 public
 .DS_Store
 
-# local-only headless-browser debug tooling (see tools/visual-debug/README.md)
-tools/visual-debug/
+# local-only debug tooling (see tools/visual-debug/README.md) - kept on disk, never pushed
+tools/
