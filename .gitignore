@@ -1,2 +1,5 @@
 .hugo_build.lock
 public
+
+# local-only debug tooling (see tools/visual-debug/README.md) - kept on disk, never pushed
+tools/
