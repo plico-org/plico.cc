@@ -14,7 +14,7 @@ other = "Language switcher"
 other = "Coming soon"
 
 [heroTitle]
-other = "Plico. Sign simply."
+other = "Plico. Sign easily."
 
 [heroSubtitle]
 other = "Sign your PDF documents quickly and easily. Without them ever leaving your device."
@@ -39,6 +39,12 @@ other = "Illustration of a hand securely signing a document on a phone"
 
 [footerNote]
 other = "Plico. Local PDF signing on iOS and Android."
+
+[footerAbout]
+other = "About"
+
+[footerHelp]
+other = "Help"
 
 [privacyPolicy]
 other = "Privacy Policy"

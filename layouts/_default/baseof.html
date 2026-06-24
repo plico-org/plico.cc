@@ -38,8 +38,11 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet" />
+    {{ if (fileExists "static/style.css") -}}
+      <link rel="stylesheet" href="{{ "style.css" | relURL }}" />
+    {{- end }}
   </head>
-  <body class="bg-brand-cream text-brand-ink antialiased">
+  <body class="bg-brand-cream text-[#012233] antialiased">
     <div class="relative min-h-screen overflow-hidden">
       <div class="pointer-events-none absolute inset-0 -z-10 overflow-hidden" aria-hidden="true">
         <div class="absolute -top-32 -right-32 h-[28rem] w-[28rem] rounded-full opacity-70 blur-3xl bg-[linear-gradient(135deg,#ECFFBC,#DCECFF)]"></div>
@@ -48,9 +51,9 @@
       </div>
 
       <header class="relative mx-auto w-full max-w-6xl px-4 pt-6 sm:px-6 lg:px-8">
-        <div class="flex items-center justify-between rounded-2xl border border-brand/20 bg-white/90 px-4 py-3 shadow-sm backdrop-blur sm:px-5">
+        <div class="flex items-center justify-between py-3">
           <a href="{{ "/" | relLangURL }}" aria-label="{{ T "brandAriaLabel" }}">
-            {{ partial "animated-wordmark.html" (dict "class" "h-8 sm:h-9") }}
+            {{ partial "animated-wordmark.html" (dict "class" "h-[2.88rem] sm:h-[3.24rem]") }}
           </a>
           <nav aria-label="{{ T "languageSwitcher" }}" class="flex items-center gap-1 rounded-full border border-brand/20 bg-brand-soft/60 p-1">
             {{ range .AllTranslations }}
@@ -69,9 +72,15 @@
       {{ block "main" . }}{{ end }}
 
       <footer class="relative mx-auto mt-16 w-full max-w-6xl px-4 pb-8 sm:px-6 lg:px-8">
-        <div class="flex flex-col items-start justify-between gap-4 rounded-2xl border border-brand/20 bg-white/90 px-4 py-5 text-sm shadow-sm sm:flex-row sm:items-center sm:px-5">
-          <p class="text-brand-ink/70">{{ T "footerNote" }}</p>
-          <ul class="flex items-center gap-4 text-brand">
+        <div class="flex flex-col items-start justify-between gap-4 border-t border-brand-ink/10 py-6 text-sm sm:flex-row sm:items-center">
+          <p class="text-[#012233]">{{ T "footerNote" }}</p>
+          <ul class="flex flex-wrap items-center gap-4 text-brand">
+            <li>
+              <a class="font-semibold transition hover:text-brand-deep" href="{{ "/about" | relLangURL }}">{{ T "footerAbout" }}</a>
+            </li>
+            <li>
+              <a class="font-semibold transition hover:text-brand-deep" href="{{ "/help" | relLangURL }}">{{ T "footerHelp" }}</a>
+            </li>
             <li>
               <a class="font-semibold transition hover:text-brand-deep" href="{{ "/privacy-policy" | relLangURL }}">{{ T "privacyPolicy" }}</a>
             </li>

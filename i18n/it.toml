@@ -40,6 +40,12 @@ other = "Illustrazione di una mano che firma in sicurezza un documento da smartp
 [footerNote]
 other = "Plico. Firma PDF locale su iOS e Android."
 
+[footerAbout]
+other = "Chi siamo"
+
+[footerHelp]
+other = "Aiuto"
+
 [privacyPolicy]
 other = "Privacy Policy"
 

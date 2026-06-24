@@ -1,2 +1,5 @@
 .hugo_build.lock
 public
+
+# local-only headless-browser debug tooling (see tools/visual-debug/README.md)
+tools/visual-debug/
