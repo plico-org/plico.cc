@@ -1,5 +1,6 @@
 .hugo_build.lock
 public
+.DS_Store
 
 # local-only headless-browser debug tooling (see tools/visual-debug/README.md)
 tools/visual-debug/
