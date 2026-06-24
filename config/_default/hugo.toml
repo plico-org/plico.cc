@@ -36,6 +36,12 @@ enableMissingTranslationPlaceholders = false
         weight = 10
 
       [[languages.en.menu.main]]
+        identifier = 'help'
+        name = 'Help'
+        pageRef = '/help'
+        weight = 15
+
+      [[languages.en.menu.main]]
         identifier = 'privacy'
         name = 'Privacy'
         pageRef = '/privacy-policy'
@@ -75,9 +81,15 @@ enableMissingTranslationPlaceholders = false
 
       [[languages.it.menu.main]]
         identifier = 'about'
-        name = 'Informazioni'
+        name = 'Chi siamo'
         pageRef = '/about'
         weight = 10
+
+      [[languages.it.menu.main]]
+        identifier = 'help'
+        name = 'Aiuto'
+        pageRef = '/help'
+        weight = 15
 
       [[languages.it.menu.main]]
         identifier = 'privacy'

@@ -1,5 +1,6 @@
 ---
 title: About
+description: Get to know the team behind Plico.
 ---
 
-This site is built with [Hugo](https://gohugo.io) and the Terminal theme.
+This page is under construction. The story and team behind Plico will be here soon.

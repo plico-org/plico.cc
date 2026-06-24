@@ -1,9 +1,25 @@
 {{ define "main" }}
-  <main class="mx-auto mt-10 w-full max-w-6xl px-4 sm:px-6 lg:mt-12 lg:px-8" aria-label="{{ T "mainNavigation" }}">
-    <section class="grid grid-cols-1 items-center gap-10 rounded-3xl border border-brand/20 bg-white/95 p-6 shadow-card sm:p-8 lg:grid-cols-2 lg:gap-12 lg:p-10">
-      <div class="order-2 lg:order-1">
-        <h1 class="max-w-xl text-4xl font-extrabold leading-tight tracking-tight text-[#1a1a1a] sm:text-5xl">{{ T "heroTitle" }}</h1>
-        <p class="mt-4 max-w-xl text-base leading-relaxed text-[#1a1a1a]/75 sm:text-lg">{{ T "heroSubtitle" }}</p>
+  <main class="relative mx-auto flex w-full max-w-6xl flex-col justify-center px-4 py-10 sm:px-6 lg:min-h-[70vh] lg:px-8 lg:py-12" aria-label="{{ T "mainNavigation" }}">
+    <div class="flex flex-col items-center gap-10 lg:flex-row lg:gap-16">
+      <div class="order-2 w-full lg:order-1 lg:w-1/2">
+        <img src="{{ "assets/ILLUSTRATIONS/HAND/HAND.png" | relURL }}" alt="{{ T "productImageAlt" }}" class="mx-auto h-auto w-full max-w-sm lg:max-w-none" />
+      </div>
+
+      <div class="order-1 w-full lg:order-2 lg:w-1/2">
+        <ul class="flex flex-wrap items-center gap-2" aria-hidden="true">
+          <li class="inline-flex items-center gap-1.5 rounded-full bg-brand-limeSoft px-3 py-1 text-xs font-bold text-[#012233]">
+            <span class="h-1.5 w-1.5 rounded-full bg-brand-lime"></span>{{ T "heroTagSecure" }}
+          </li>
+          <li class="inline-flex items-center gap-1.5 rounded-full bg-brand-soft px-3 py-1 text-xs font-bold text-[#012233]">
+            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span>{{ T "heroTagSimple" }}
+          </li>
+          <li class="inline-flex items-center gap-1.5 rounded-full bg-brand-purpleSoft px-3 py-1 text-xs font-bold text-[#012233]">
+            <span class="h-1.5 w-1.5 rounded-full bg-brand-purple"></span>{{ T "heroTagFast" }}
+          </li>
+        </ul>
+
+        <h1 class="mt-5 max-w-xl text-4xl font-extrabold leading-tight tracking-tight text-[#012233] sm:text-5xl">{{ T "heroTitle" }}</h1>
+        <p class="mt-4 max-w-xl text-base leading-relaxed text-[#012233] sm:text-lg">{{ T "heroSubtitle" }}</p>
 
         <div class="mt-8 flex flex-wrap items-center gap-3 sm:gap-4" aria-label="{{ T "mainNavigation" }}">
           <a href="#" aria-label="{{ T "appStoreAlt" }}" class="transition hover:scale-[1.02] hover:opacity-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand focus-visible:ring-offset-2">
@@ -14,12 +30,6 @@
           </a>
         </div>
       </div>
-
-      <div class="order-1 lg:order-2">
-        <div class="overflow-hidden rounded-2xl border border-brand/20 bg-brand-soft/60 p-2 shadow-card sm:p-3">
-          <img src="{{ "assets/product-landing-page.png" | relURL }}" alt="{{ T "productImageAlt" }}" class="h-auto w-full rounded-xl" />
-        </div>
-      </div>
-    </section>
+    </div>
   </main>
 {{ end }}

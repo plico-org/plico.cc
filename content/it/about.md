@@ -1,5 +1,6 @@
 ---
-title: Informazioni
+title: Chi siamo
+description: Scopri chi c'è dietro Plico.
 ---
 
-Questo sito è realizzato con [Hugo](https://gohugo.io) e il tema Terminal.
+Pagina in costruzione. Presto troverai qui la storia e il team di Plico.

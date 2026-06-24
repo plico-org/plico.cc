@@ -14,6 +14,8 @@ L'Applicazione è fornita in licenza d'uso. All'utente è vietato, nei limiti co
 1. Distribuire o rivendere l'Applicazione a terzi.
 2. Utilizzare l'Applicazione per scopi illeciti.
 
+Per informazioni sulle licenze open source di terze parti utilizzate nell'Applicazione, consulta la pagina [Licenze di Terze Parti]({{< relref "third-party-licenses.md" >}}).
+
 ## 2. Natura del Servizio
 
 L'Applicazione è fornita a titolo gratuito. Il Titolare si riserva il diritto di:

@@ -4,9 +4,6 @@ other = "Plico: app iOS e Android per firmare PDF localmente sul dispositivo."
 [brandAriaLabel]
 other = "Vai alla home di Plico"
 
-[brandIconAlt]
-other = "Icona dell'app Plico"
-
 [mainNavigation]
 other = "Navigazione principale"
 
@@ -22,6 +19,15 @@ other = "Plico. Firma semplicemente."
 [heroSubtitle]
 other = "Firma i tuoi documenti PDF velocemente e facilmente. Senza che lascino mai il tuo dispositivo."
 
+[heroTagSecure]
+other = "Sicuro"
+
+[heroTagSimple]
+other = "Semplice"
+
+[heroTagFast]
+other = "Veloce"
+
 [appStoreAlt]
 other = "Scarica Plico su App Store"
 
@@ -29,10 +35,16 @@ other = "Scarica Plico su App Store"
 other = "Scarica Plico su Google Play"
 
 [productImageAlt]
-other = "Screenshot della landing page di Plico"
+other = "Illustrazione di una mano che firma in sicurezza un documento da smartphone"
 
 [footerNote]
 other = "Plico. Firma PDF locale su iOS e Android."
+
+[footerAbout]
+other = "Chi siamo"
+
+[footerHelp]
+other = "Aiuto"
 
 [privacyPolicy]
 other = "Privacy Policy"

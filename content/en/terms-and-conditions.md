@@ -14,6 +14,8 @@ The Application is licensed. The following are prohibited, to the extent permitt
 1. Distributing or reselling the Application to third parties.
 2. Using the Application for unlawful purposes.
 
+For information about third-party open-source licenses used in the Application, see the [Third-Party Licenses]({{< relref "third-party-licenses.md" >}}) page.
+
 ## 2. Nature of the Service
 
 The Application is provided free of charge. The Owner reserves the right to:
