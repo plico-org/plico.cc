@@ -4,9 +4,6 @@ other = "Plico: iOS and Android app to sign PDF documents locally on-device."
 [brandAriaLabel]
 other = "Go to the Plico homepage"
 
-[brandIconAlt]
-other = "Plico app icon"
-
 [mainNavigation]
 other = "Main navigation"
 
@@ -22,6 +19,15 @@ other = "Plico. Sign simply."
 [heroSubtitle]
 other = "Sign your PDF documents quickly and easily. Without them ever leaving your device."
 
+[heroTagSecure]
+other = "Secure"
+
+[heroTagSimple]
+other = "Simple"
+
+[heroTagFast]
+other = "Fast"
+
 [appStoreAlt]
 other = "Download Plico on the App Store"
 
@@ -29,7 +35,7 @@ other = "Download Plico on the App Store"
 other = "Download Plico on Google Play"
 
 [productImageAlt]
-other = "Screenshot of Plico landing page"
+other = "Illustration of a hand securely signing a document on a phone"
 
 [footerNote]
 other = "Plico. Local PDF signing on iOS and Android."

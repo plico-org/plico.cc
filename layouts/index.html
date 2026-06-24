@@ -1,9 +1,21 @@
 {{ define "main" }}
-  <main class="mx-auto mt-10 w-full max-w-6xl px-4 sm:px-6 lg:mt-12 lg:px-8" aria-label="{{ T "mainNavigation" }}">
+  <main class="relative mx-auto mt-10 w-full max-w-6xl px-4 sm:px-6 lg:mt-12 lg:px-8" aria-label="{{ T "mainNavigation" }}">
     <section class="grid grid-cols-1 items-center gap-10 rounded-3xl border border-brand/20 bg-white/95 p-6 shadow-card sm:p-8 lg:grid-cols-2 lg:gap-12 lg:p-10">
       <div class="order-2 lg:order-1">
-        <h1 class="max-w-xl text-4xl font-extrabold leading-tight tracking-tight text-[#1a1a1a] sm:text-5xl">{{ T "heroTitle" }}</h1>
-        <p class="mt-4 max-w-xl text-base leading-relaxed text-[#1a1a1a]/75 sm:text-lg">{{ T "heroSubtitle" }}</p>
+        <ul class="flex flex-wrap items-center gap-2" aria-hidden="true">
+          <li class="inline-flex items-center gap-1.5 rounded-full bg-brand-limeSoft px-3 py-1 text-xs font-bold text-brand-ink">
+            <span class="h-1.5 w-1.5 rounded-full bg-brand-lime"></span>{{ T "heroTagSecure" }}
+          </li>
+          <li class="inline-flex items-center gap-1.5 rounded-full bg-brand-soft px-3 py-1 text-xs font-bold text-brand-ink">
+            <span class="h-1.5 w-1.5 rounded-full bg-brand"></span>{{ T "heroTagSimple" }}
+          </li>
+          <li class="inline-flex items-center gap-1.5 rounded-full bg-brand-purpleSoft px-3 py-1 text-xs font-bold text-brand-ink">
+            <span class="h-1.5 w-1.5 rounded-full bg-brand-purple"></span>{{ T "heroTagFast" }}
+          </li>
+        </ul>
+
+        <h1 class="mt-5 max-w-xl text-4xl font-extrabold leading-tight tracking-tight text-brand-ink sm:text-5xl">{{ T "heroTitle" }}</h1>
+        <p class="mt-4 max-w-xl text-base leading-relaxed text-brand-ink/75 sm:text-lg">{{ T "heroSubtitle" }}</p>
 
         <div class="mt-8 flex flex-wrap items-center gap-3 sm:gap-4" aria-label="{{ T "mainNavigation" }}">
           <a href="#" aria-label="{{ T "appStoreAlt" }}" class="transition hover:scale-[1.02] hover:opacity-95 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-brand focus-visible:ring-offset-2">
@@ -15,10 +27,16 @@
         </div>
       </div>
 
-      <div class="order-1 lg:order-2">
-        <div class="overflow-hidden rounded-2xl border border-brand/20 bg-brand-soft/60 p-2 shadow-card sm:p-3">
-          <img src="{{ "assets/product-landing-page.png" | relURL }}" alt="{{ T "productImageAlt" }}" class="h-auto w-full rounded-xl" />
+      <div class="relative order-1 lg:order-2">
+        <div class="overflow-hidden rounded-2xl border border-brand/20 bg-[linear-gradient(135deg,#ECFFBC,#DCECFF)] p-6 shadow-card sm:p-8">
+          <img src="{{ "assets-new/ILLUSTRATIONS/HAND/HAND.png" | relURL }}" alt="{{ T "productImageAlt" }}" class="mx-auto h-auto w-full max-w-sm" />
         </div>
+        <img
+          src="{{ "assets-new/AVATAR/avatar-03.png" | relURL }}"
+          alt=""
+          aria-hidden="true"
+          class="absolute -right-3 -top-3 h-14 w-14 rotate-6 rounded-full border-2 border-white object-cover shadow-card sm:-right-5 sm:-top-5 sm:h-16 sm:w-16"
+        />
       </div>
     </section>
   </main>
