@@ -52,4 +52,4 @@ I presenti Termini e Condizioni sono regolati dalla legge italiana. Per qualsias
 
 ## 7. Contatti
 
-Per comunicazioni o segnalazioni, l'utente può scrivere a: [luigi.gubello@protonmail.com](mailto:luigi.gubello@protonmail.com).
+Per comunicazioni o segnalazioni, l'utente può scrivere a: [info@plico.cc](mailto:info@plico.cc).

@@ -52,4 +52,4 @@ These Terms and Conditions are governed by Italian law. Any dispute relating to 
 
 ## 7. Contact
 
-For enquiries or reports, users may write to: [luigi.gubello@protonmail.com](mailto:luigi.gubello@protonmail.com).
+For enquiries or reports, users may write to: [info@plico.cc](mailto:info@plico.cc).
