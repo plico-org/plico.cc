@@ -1,6 +1,7 @@
 {{- $class := .class | default "h-9" -}}
-<span class="plico-wordmark relative inline-block aspect-[3416/1405] {{ $class }}" aria-hidden="true">
-  {{- range (slice "01.png" "02.png" "03.png" "04.png") }}
-    <img src="{{ printf "assets/NAME/%s" . | relURL }}" alt="" class="absolute inset-0 h-full w-full object-contain" />
-  {{- end }}
-</span>
+<img
+  src="{{ "assets/NAME/wordmark.webp" | relURL }}"
+  alt=""
+  aria-hidden="true"
+  class="plico-wordmark inline-block aspect-[1200/494] {{ $class }}"
+/>
