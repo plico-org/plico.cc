@@ -1,29 +1,3 @@
 :root {
   --accent: #012233;
 }
-
-/* Animated "Plico" wordmark — replicates static/assets-new/ANIMAZIONE.html:
-   four frames snap-cycle every 450ms (P, L, C, O accent), no crossfade. */
-.plico-wordmark img {
-  opacity: 0;
-  animation: plico-wordmark-cycle 1800ms infinite;
-}
-.plico-wordmark img:nth-child(1) { animation-delay: 0ms; }
-.plico-wordmark img:nth-child(2) { animation-delay: 450ms; }
-.plico-wordmark img:nth-child(3) { animation-delay: 900ms; }
-.plico-wordmark img:nth-child(4) { animation-delay: 1350ms; }
-
-@keyframes plico-wordmark-cycle {
-  0%, 24.99% { opacity: 1; }
-  25%, 100% { opacity: 0; }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .plico-wordmark img {
-    animation: none;
-    opacity: 0;
-  }
-  .plico-wordmark img:first-child {
-    opacity: 1;
-  }
-}
