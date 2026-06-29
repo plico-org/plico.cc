@@ -1,6 +1,9 @@
 [metaDescription]
 other = "Plico: iOS and Android app to sign PDF documents locally on-device."
 
+[homeTitle]
+other = "Plico | Signing PDFs with Italian eID made simple"
+
 [brandAriaLabel]
 other = "Go to the Plico homepage"
 
@@ -14,10 +17,10 @@ other = "Language switcher"
 other = "Coming soon"
 
 [heroTitle]
-other = "Plico. Sign easily."
+other = "Plico. Signing, made simple."
 
 [heroSubtitle]
-other = "Sign your PDF documents quickly and easily. Without them ever leaving your device."
+other = "An easy, fast way to sign PDFs with your Italian eID. Your privacy, never compromised."
 
 [heroTagSecure]
 other = "Secure"
@@ -38,7 +41,7 @@ other = "Download Plico on Google Play"
 other = "Illustration of a hand securely signing a document on a phone"
 
 [footerNote]
-other = "Plico. Local PDF signing on iOS and Android."
+other = "Developed between Friuli-Venezia-Giulia and Umbria.<br />Illustrations and graphics by <a href=\"https://www.luciadelzotto.it\" target=\"_blank\" rel=\"noopener noreferrer\">Lucia Del Zotto</a>."
 
 [footerAbout]
 other = "About"

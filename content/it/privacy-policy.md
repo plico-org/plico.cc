@@ -43,4 +43,4 @@ Le pagine possono contenere collegamenti a siti esterni, le cui privacy policy s
 
 ## 8. Contatti
 
-Per domande sulla privacy relative al Sito o all'Applicazione, puoi contattarci tramite i recapiti indicati sul Sito o scrivendo a: [info@plico.cc](mailto:info@plico.cc)
+Per domande sulla privacy relative al Sito o all'Applicazione, puoi contattarci scrivendo a: [info@plico.cc](mailto:info@plico.cc).

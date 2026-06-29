@@ -1,6 +1,9 @@
 [metaDescription]
 other = "Plico: app iOS e Android per firmare PDF localmente sul dispositivo."
 
+[homeTitle]
+other = "Plico | Firma PDF con CIE in modo semplice"
+
 [brandAriaLabel]
 other = "Vai alla home di Plico"
 
@@ -14,10 +17,10 @@ other = "Selettore lingua"
 other = "In arrivo"
 
 [heroTitle]
-other = "Plico. Firma semplicemente."
+other = "Plico. Firma, semplice."
 
 [heroSubtitle]
-other = "Firma i tuoi documenti PDF velocemente e facilmente. Senza che lascino mai il tuo dispositivo."
+other = "Firma documenti PDF con la tua CIE in modo semplice e veloce. Senza compromessi sulla tua privacy."
 
 [heroTagSecure]
 other = "Sicuro"
@@ -38,7 +41,7 @@ other = "Scarica Plico su Google Play"
 other = "Illustrazione di una mano che firma in sicurezza un documento da smartphone"
 
 [footerNote]
-other = "Plico. Firma PDF locale su iOS e Android."
+other = "Sviluppato tra Friuli-Venezia-Giulia e Umbria.<br />Illustrazioni e grafiche a cura di <a href=\"https://www.luciadelzotto.it\" target=\"_blank\" rel=\"noopener noreferrer\">Lucia Del Zotto</a>."
 
 [footerAbout]
 other = "Chi siamo"
@@ -50,4 +53,4 @@ other = "Aiuto"
 other = "Privacy Policy"
 
 [termsAndConditions]
-other = "Terms and Conditions"
+other = "Termini e Condizioni"
