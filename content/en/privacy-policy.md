@@ -43,4 +43,4 @@ Pages may contain links to external sites, whose privacy policies are their sole
 
 ## 8. Contact
 
-For privacy-related questions about the Site or the Application, you can reach us via the contact details provided on the Site or by writing to: [info@plico.cc](mailto:info@plico.cc)
+For privacy-related questions about the Site or the Application, you can contact us by writing to: [info@plico.cc](mailto:info@plico.cc).
