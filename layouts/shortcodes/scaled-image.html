@@ -1,0 +1,8 @@
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $width := .Get "width" | default "100%" -}}
+<img
+  src="{{ $src | relURL }}"
+  alt="{{ $alt }}"
+  style="display: block; width: {{ $width }}; height: auto; margin: 0 auto;"
+/>

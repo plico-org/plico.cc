@@ -5,13 +5,13 @@ description: Scopri chi c'è dietro Plico.
 
 ## Perché Plico
 
-Plico è la risposta alla domanda: "Esiste un'applicazione **semplice** per firmare dei documenti PDF?".
+Plico è la risposta alla domanda: "_Esiste un'applicazione **semplice** per firmare dei documenti PDF?_"
 
 La chiave della risposta risiede nel termine "_semplice_": in questo contesto assume sfumature diverse a seconda di chi deve firmare un documento. _Semplice_ vuol dire "facile da usare", _Semplice_ vuol dire "Non voglio creare l'ennesimo account sull'ennesimo servizio online che mi riempie di spam", _Semplice_ vuol dire "Gratis", _Semplice_ vuol dire "I dati sono i miei e voglio che rimangano miei", _Semplice_ vuol dire "Non voglio accendere la stampante che non può comunque stampare perché ha finito il magenta".
 
 Plico è per tutti e tutte quelle come noi. Vogliamo che l'applicazione faccia solo due cose, ma che le faccia bene. Insomma, **un modo semplice e veloce per firmare i documenti**.
 
-![Plico](/assets/TYPE%201/TYPE1_DARK_BLUE.png)
+{{< scaled-image src="assets/TYPE%201/TYPE1_DARK_BLUE.png" alt="Plico" width="80%" >}}
 
 ## Chi siamo
 
