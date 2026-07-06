@@ -1,9 +1,9 @@
 ---
-title: Informativa sulla privacy
+title: Politica sulla privacy
 description: Come Plico tratta i dati e la tua privacy.
 ---
 
-Ultimo aggiornamento: maggio 2026.
+Ultimo aggiornamento: luglio 2026.
 
 ## 1. Panoramica
 

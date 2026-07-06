@@ -3,7 +3,7 @@ title: Privacy Policy
 description: How Plico processes data and handles your privacy.
 ---
 
-Last updated: May 2026.
+Last updated: July 2026.
 
 ## 1. Overview
 

@@ -3,7 +3,7 @@ title: Terms and Conditions
 description: Terms and conditions for the use of Plico.
 ---
 
-Last updated: May 2026.
+Last updated: July 2026.
 
 The Plico application (hereinafter referred to as "the Application") is owned by Luigi Gubello and Massimiliano Pippi (hereinafter referred to as "the Owner"). Installing and using the Application implies full acceptance of these Terms and Conditions.
 
