@@ -3,7 +3,7 @@ title: Termini e Condizioni
 description: Termini e condizioni per l'utilizzo di Plico.
 ---
 
-Ultimo aggiornamento: maggio 2026.
+Ultimo aggiornamento: luglio 2026.
 
 L'applicazione Plico (di seguito "l'Applicazione") è di proprietà di Luigi Gubello e Massimiliano Pippi (di seguito indicati come "il Titolare"). L'installazione e l'utilizzo dell'Applicazione implicano l'accettazione integrale dei presenti Termini e Condizioni.
 
