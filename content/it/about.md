@@ -15,6 +15,6 @@ Plico è per tutti e tutte quelle come noi. Vogliamo che l'applicazione faccia s
 
 ## Chi siamo
 
-**Massimiliano Pippi** è un Senior Software Engineer e Cloud Architect, con oltre vent'anni di esperienza internazionale nel mondo tech, da startup innovative ad aziende leader come Datadog e Elastic. Pythonista da sempre, è attivo nella comunità open-source. Attualmente vive e lavora in Umbria. Non ha una stampante a casa.
+**Massimiliano Pippi** è un Engineering Lead con oltre vent'anni di esperienza internazionale nel mondo tech, da startup in fase iniziale ad aziende quotate come Datadog ed Elastic. Esperto di Python e attivo nella comunità open-source, attualmente guida un team in Elastic dedicato alla valutazione di sistemi di IA nella soluzione Observability. Vive e lavora in Umbria. Non ha una stampante a casa.
 
 **Luigi Gubello** è Senior Security Engineer presso n8n. Esperto di cybersecurity con un focus su web application security, open-source supply-chain security e sistemi IoT, ha lavorato in varie startup europee. Promotore attivo del software open-source, vive e lavora nel Friuli-Venezia-Giulia. Neanche lui ha una stampante a casa.

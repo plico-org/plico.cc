@@ -15,6 +15,6 @@ Plico is for everyone like us. We want the app to do just two things, but do the
 
 ## Who we are
 
-**Massimiliano Pippi** is a Senior Software Engineer and Cloud Architect, with over twenty years of international experience in tech, from innovative startups to leading companies like Datadog and Elastic. A lifelong Python developer, he's active in the open-source community. He currently lives and works in Umbria. He doesn't own a printer.
+**Massimiliano Pippi** is an Engineering Lead with over twenty years of international experience in tech, from early-stage startups to public companies like Datadog and Elastic. A Python expert and active open-source contributor, he currently leads a team at Elastic focused on AI workload evaluation in Observability. He lives and works in Umbria. He doesn't own a printer.
 
 **Luigi Gubello** is a Senior Security Engineer at n8n. A cybersecurity expert focused on web application security, open-source supply-chain security, and IoT systems, he has worked at several European startups. An active advocate for open-source software, he lives and works in Friuli-Venezia Giulia. He doesn't own a printer either.
