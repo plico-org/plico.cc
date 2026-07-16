@@ -40,7 +40,7 @@ Una volta compilato o firmato graficamente il documento, clicca sul tasto "_Fine
 
 ### 7. Come posso eliminare un documento caricato su Plico?
 
-Trascina il documento da destra a sinistra per far comparire l'icona rossa del cestino e toccarla, oppure tieni premuto sul documento per aprire un menu e selezionare la voce "_Elimina_".
+Trascina il documento da destra a sinistra per far comparire l'icona rossa del cestino e toccarla, oppure tieni premuto sul documento per aprire un menu e selezionare la voce "_Elimina_". Questa operazione rimuove solo la copia salvata in Plico sul tuo dispositivo; il file originale al di fuori dell'app non viene modificato.
 
 ### 8. Come posso verificare se un documento è stato firmato digitalmente?
 

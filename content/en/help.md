@@ -40,7 +40,7 @@ Once you've filled in or graphically signed the document, tap "_Done_" and then 
 
 ### 7. How do I delete a document uploaded to Plico?
 
-Swipe the document from right to left to reveal the red trash icon and tap it, or press and hold on the document to open a menu and select "_Delete_".
+Swipe the document from right to left to reveal the red trash icon and tap it, or press and hold on the document to open a menu and select "_Delete_". This only removes the copy stored in Plico on your device; the original file outside the app is left untouched.
 
 ### 8. How can I check if a document has been digitally signed?
 
