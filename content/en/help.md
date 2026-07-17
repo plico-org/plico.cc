@@ -11,13 +11,13 @@ Here you'll find answers to the most frequently asked questions about Plico. If 
 
 **Yes, Plico is completely free**, downloadable from the App Store or Google Play Store, requires no account creation, and contains no ads. Plico was built for people like us who just want to fill out and sign a PDF document quickly and easily, and we want it to stay free, forever :)
 
-### 2. So if it's free, does Plico collect all my data?
+### 2. Does Plico collect my data?
 
-Fair question in these days and age. **No, Plico doesn't collect any data. And we, the developers, don't want to collect any user data either.** We don't know which documents you sign, which data or metadata you process with Plico, or which graphic or CIE signatures you use. Plico can work completely offline, except for verifying digital signatures on a document, since an Internet connection is needed to check certificate revocation status via OCSP services.
+**No, Plico doesn't collect any data.** And we, the developers, don't want to collect any user data. We don't know which documents you sign, which data or metadata you process with Plico, or which graphic or CIE signatures you use. Plico can work completely offline, except for verifying digital signatures on a document, since an Internet connection is needed to check certificate revocation status via [OCSP](https://en.wikipedia.org/wiki/Online_Certificate_Status_Protocol) services.
 
-### 3. Why is Plico better than CIESign?
+### 3. Why should I use Plico instead of CIESign?
 
-Well, for starters, its developers are nicer, and just look at how cute our app icon is! Plico was designed and built for everyone; for anyone who needs an app to fill out and sign PDF documents without having to print them. Unlike CIESign, where you can only sign documents with a single graphic signature and a single CIE card, in Plico you can:
+Plico was designed and built for everyone; for anyone who needs an app to fill out and sign PDF documents without having to print them. Unlike CIESign, where you can only sign documents with a single graphic signature and a single CIE card, in Plico you can:
 
 - Fill out and graphically sign PDF documents;
 - Use and save more than one CIE card in the app;

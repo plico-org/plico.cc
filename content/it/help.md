@@ -11,13 +11,13 @@ Qui trovi le risposte alle domande più frequenti su Plico. Se non trovi quello 
 
 **Ebbene sì, Plico è totalmente gratuito**, scaricabile dall'App Store o dal Google Play Store, non richiede la creazione di nessun account e non contiene pubblicità. Plico è stata sviluppata per tutte le persone come noi, che vogliono solo compilare e firmare un documento PDF in maniera semplice e veloce, e vogliamo che rimanga gratis per sempre :)
 
-### 2. Quindi se è gratis, Plico raccoglie tutti i miei dati?
+### 2. Plico raccoglie i miei dati?
 
-Domanda legittima nell'epoca attuale. **No, Plico non raccoglie nessun dato. E noi sviluppatori non vogliamo raccogliere alcun dato dell'utente.** Noi non sappiamo quali documenti firmi, quali dati o metadati processi con Plico, che firme grafiche o CIE utilizzi. Plico può lavorare completamente offline, ad esclusione della verifica delle firme digitali apposte in un documento, poiché una connessione a Internet è necessaria per la verifica dello stato di revoca dei certificati tramite i servizi OCSP.
+**No, Plico non raccoglie nessun dato.** E noi sviluppatori non vogliamo raccogliere alcun dato dell'utente. Noi non sappiamo quali documenti firmi, quali dati o metadati processi con Plico, che firme grafiche o CIE utilizzi. Plico può lavorare completamente offline, ad esclusione della verifica delle firme digitali apposte in un documento, poiché una connessione a Internet è necessaria per la verifica dello stato di revoca dei certificati tramite i servizi [OCSP](https://it.wikipedia.org/wiki/Online_Certificate_Status_Protocol).
 
-### 3. Perché Plico è meglio di CIESign?
+### 3. Perché dovrei usare Plico invece di CIESign?
 
-Intanto perché i suoi sviluppatori sono più simpatici, e poi guarda che icona carina che ha la nostra applicazione! Plico è stata pensata e creata per tutti e tutte, per chiunque necessiti di un'applicazione per compilare e firmare i documenti PDF, senza doverli necessariamente stampare. A differenza di CIESign, dove l'utente può solo firmare i documenti con una singola firma grafica ed un'unica CIE, in Plico l'utente può:
+Plico è stata pensata e creata per tutti e tutte, per chiunque necessiti di un'applicazione per compilare e firmare i documenti PDF, senza doverli necessariamente stampare. A differenza di CIESign, dove l'utente può solo firmare i documenti con una singola firma grafica ed un'unica CIE, in Plico l'utente può:
 
 - Compilare e firmare graficamente i documenti PDF;
 - Utilizzare e salvare più di una carta CIE nell'applicazione;
