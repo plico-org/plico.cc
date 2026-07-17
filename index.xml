@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Plico</title>
+		<link>https://plico.cc/</link>
+		<description>Recent content on Plico</description>
+		<generator>Hugo</generator>
+		<language>it-it</language>
+		
+		
+		
+		
+			<atom:link href="https://plico.cc/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Aiuto</title>
+				<link>https://plico.cc/help/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plico.cc/help/</guid>
+				<description>&lt;p&gt;Qui trovi le risposte alle domande più frequenti su Plico. Se non trovi quello che cerchi o se vuoi semplicemente inviarci un saluto, scrivi a: &lt;a href=&#34;mailto:info@plico.cc&#34;&gt;info@plico.cc&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;domande-frequenti&#34;&gt;Domande frequenti&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-plico-è-davvero-gratis&#34;&gt;1. Plico è davvero gratis?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Ebbene sì, Plico è totalmente gratuito&lt;/strong&gt;, scaricabile dall&amp;rsquo;App Store o dal Google Play Store, non richiede la creazione di nessun account e non contiene pubblicità. Plico è stata sviluppata per tutte le persone come noi, che vogliono solo compilare e firmare un documento PDF in maniera semplice e veloce, e vogliamo che rimanga gratis per sempre :)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Chi siamo</title>
+				<link>https://plico.cc/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plico.cc/about/</guid>
+				<description>&lt;h2 id=&#34;perché-plico&#34;&gt;Perché Plico&lt;/h2&gt;&#xA;&lt;p&gt;Plico è la risposta alla domanda: &amp;ldquo;&lt;em&gt;Esiste un&amp;rsquo;applicazione &lt;strong&gt;semplice&lt;/strong&gt; per firmare dei documenti PDF?&lt;/em&gt;&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;La chiave della risposta risiede nel termine &amp;ldquo;&lt;em&gt;semplice&lt;/em&gt;&amp;rdquo;: in questo contesto assume sfumature diverse a seconda di chi deve firmare un documento. &lt;em&gt;Semplice&lt;/em&gt; vuol dire &amp;ldquo;facile da usare&amp;rdquo;, &lt;em&gt;Semplice&lt;/em&gt; vuol dire &amp;ldquo;Non voglio creare l&amp;rsquo;ennesimo account sull&amp;rsquo;ennesimo servizio online che mi riempie di spam&amp;rdquo;, &lt;em&gt;Semplice&lt;/em&gt; vuol dire &amp;ldquo;Gratis&amp;rdquo;, &lt;em&gt;Semplice&lt;/em&gt; vuol dire &amp;ldquo;I dati sono i miei e voglio che rimangano miei&amp;rdquo;, &lt;em&gt;Semplice&lt;/em&gt; vuol dire &amp;ldquo;Non voglio accendere la stampante che non può comunque stampare perché ha finito il magenta&amp;rdquo;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Licenze di Terze Parti</title>
+				<link>https://plico.cc/third-party-licenses/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plico.cc/third-party-licenses/</guid>
+				<description>&lt;p&gt;Plico è un&amp;rsquo;applicazione proprietaria, distribuita gratuitamente. Il suo codice sorgente non è open source, ma l&amp;rsquo;Applicazione integra alcune librerie open source di terze parti, elencate di seguito insieme alla relativa licenza, in conformità con i rispettivi termini.&lt;/p&gt;&#xA;&lt;h2 id=&#34;applicazione-android&#34;&gt;Applicazione Android&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Libreria&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Autore&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Licenza&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;AndroidX Core, AppCompat, Activity, Lifecycle, Room, Biometric&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Google&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Apache License 2.0&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Jetpack Compose (UI, Material 3, Material Icons Extended)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Google&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Apache License 2.0&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Kotlin Coroutines&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;JetBrains&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Apache License 2.0&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Coil&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Coil Contributors&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Apache License 2.0&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;PdfBox-Android&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Tom Roush (porting di Apache PDFBox)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Apache License 2.0&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Bouncy Castle (bcprov, bcpkix, bcutil)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;The Legion of the Bouncy Castle Inc.&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Bouncy Castle Licence (stile MIT)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;CIE ID Android SDK&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Presidenza del Consiglio dei Ministri / IPZS (Italia)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;BSD 3-Clause&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;applicazione-ios&#34;&gt;Applicazione iOS&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Libreria&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Autore&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Licenza&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;GRDB.swift&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Gwendal Roué&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;MIT License&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;FontAwesome.swift&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;FontAwesome.swift contributors&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;MIT License&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;OpenSSL-Package&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Marcin Krzyżanowski (packaging di OpenSSL)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Apache License 2.0&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;Il testo completo di ciascuna licenza è disponibile presso il repository ufficiale della relativa libreria.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Politica sulla privacy</title>
+				<link>https://plico.cc/privacy-policy/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plico.cc/privacy-policy/</guid>
+				<description>&lt;p&gt;Ultimo aggiornamento: luglio 2026.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-panoramica&#34;&gt;1. Panoramica&lt;/h2&gt;&#xA;&lt;p&gt;La presente informativa descrive le modalità di trattamento dei dati relative al sito web (&amp;ldquo;Sito&amp;rdquo;) e all&amp;rsquo;applicazione mobile per iOS e Android (&amp;ldquo;Applicazione&amp;rdquo;) di Plico. Il Titolare del trattamento è rappresentato dagli sviluppatori di Plico, contattabili ai recapiti indicati nella sezione &amp;ldquo;Contatti&amp;rdquo;. Il nostro obiettivo è ridurre al minimo la raccolta di informazioni e garantire la massima trasparenza.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-cosa-non-facciamo&#34;&gt;2. Cosa non facciamo&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nessun account:&lt;/strong&gt; Non gestiamo account utente, registrazioni o accessi.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nessuna profilazione:&lt;/strong&gt; Non utilizziamo i tuoi dati per finalità di marketing, pubblicità o profilazione comportamentale.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nessun tracker:&lt;/strong&gt; Non incorporiamo tracker pubblicitari di terze parti.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Nessuna vendita:&lt;/strong&gt; Non vendiamo né cediamo i tuoi dati a terzi.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;3-applicazione-mobile-iosandroid&#34;&gt;3. Applicazione Mobile (iOS/Android)&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;applicazione Plico è progettata secondo il principio della &lt;em&gt;privacy by design&lt;/em&gt;:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Termini e Condizioni</title>
+				<link>https://plico.cc/terms-and-conditions/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plico.cc/terms-and-conditions/</guid>
+				<description>&lt;p&gt;Ultimo aggiornamento: luglio 2026.&lt;/p&gt;&#xA;&lt;p&gt;L&amp;rsquo;applicazione Plico (di seguito &amp;ldquo;l&amp;rsquo;Applicazione&amp;rdquo;) è di proprietà di Luigi Gubello e Massimiliano Pippi (di seguito indicati come &amp;ldquo;il Titolare&amp;rdquo;). L&amp;rsquo;installazione e l&amp;rsquo;utilizzo dell&amp;rsquo;Applicazione implicano l&amp;rsquo;accettazione integrale dei presenti Termini e Condizioni.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-licenza-duso-e-proprietà-intellettuale&#34;&gt;1. Licenza d&amp;rsquo;Uso e Proprietà Intellettuale&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;Applicazione è fornita in licenza d&amp;rsquo;uso. All&amp;rsquo;utente è vietato, nei limiti consentiti dalla legge applicabile:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Distribuire o rivendere l&amp;rsquo;Applicazione a terzi.&lt;/li&gt;&#xA;&lt;li&gt;Utilizzare l&amp;rsquo;Applicazione per scopi illeciti.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Per informazioni sulle licenze open source di terze parti utilizzate nell&amp;rsquo;Applicazione, consulta la pagina &lt;a href=&#34;https://plico.cc/third-party-licenses/&#34;&gt;Licenze di Terze Parti&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Vulnerability Disclosure Policy</title>
+				<link>https://plico.cc/vulnerability-disclosure-policy/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plico.cc/vulnerability-disclosure-policy/</guid>
+				<description>&lt;p&gt;Plico è un progetto indipendente, gratuito e sviluppato fin dall&amp;rsquo;inizio con un approccio locale e orientato alla tutela della privacy di chi lo usa. Sviluppiamo le app per iOS e Android (cc.plico.app) con tutta la cura possibile, ma sappiamo bene che il software perfetto non esiste.&lt;/p&gt;&#xA;&lt;p&gt;Se pensi di aver trovato un bug di sicurezza o una vulnerabilità, scrivi a &lt;a href=&#34;mailto:security@plico.cc&#34;&gt;security@plico.cc&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
