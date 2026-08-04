@@ -1,12 +1,111 @@
 <!doctype html>
 <html lang="{{ .Site.Language.Lang }}">
   <head>
+    {{ $pageTitle := T "homeTitle" }}
+    {{ $description := T "metaDescription" }}
+    {{ if not .IsHome }}
+      {{ $pageTitle = printf "%s | %s" .Title .Site.Title }}
+      {{ if .Description }}
+        {{ $description = .Description }}
+      {{ else if .Summary }}
+        {{ $description = .Summary | plainify }}
+      {{ end }}
+    {{ end }}
+    {{ $ogImage := "assets/og-image.png" | absURL }}
+
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{{ if .IsHome }}{{ T "homeTitle" }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
-    <meta name="description" content="{{ T "metaDescription" }}" />
+    <meta name="theme-color" content="#F6F2E7" />
+    <title>{{ $pageTitle }}</title>
+    <meta name="description" content="{{ $description }}" />
+    {{ if eq (.Params.noindex | default false) true }}
+      <meta name="robots" content="noindex, nofollow" />
+    {{ else }}
+      <meta name="robots" content="index, follow" />
+    {{ end }}
+    <link rel="canonical" href="{{ .Permalink }}" />
+    {{ $defaultLang := hugo.Sites.Default.Language.Lang }}
+    {{ range .AllTranslations }}
+      <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+      {{ if eq .Language.Lang $defaultLang }}
+        <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+      {{ end }}
+    {{ end }}
     <link rel="icon" type="image/png" href="{{ "favicon.png" | relURL }}" />
     <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}" />
+    {{ with .OutputFormats.Get "RSS" }}
+      <link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="{{ $.Site.Title }}" />
+    {{ end }}
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ $pageTitle }}" />
+    <meta property="og:description" content="{{ $description }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:site_name" content="{{ .Site.Title }}" />
+    <meta property="og:locale" content="{{ .Site.Language.Lang }}" />
+    {{ range .AllTranslations }}
+      {{ if ne .Language.Lang $.Site.Language.Lang }}
+        <meta property="og:locale:alternate" content="{{ .Language.Lang }}" />
+      {{ end }}
+    {{ end }}
+    <meta property="og:image" content="{{ $ogImage }}" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Plico" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ $pageTitle }}" />
+    <meta name="twitter:description" content="{{ $description }}" />
+    <meta name="twitter:image" content="{{ $ogImage }}" />
+
+    <!-- Structured data -->
+    {{ $siteURL := "/" | absURL }}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Organization",
+            "@id": "{{ $siteURL }}#organization",
+            "name": "Plico",
+            "url": "{{ $siteURL }}",
+            "logo": "{{ "assets/NAME/wordmark.webp" | absURL }}"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "{{ $siteURL }}#website",
+            "url": "{{ $siteURL }}",
+            "name": "Plico",
+            "publisher": { "@id": "{{ $siteURL }}#organization" }
+          },
+          {
+            "@type": "SoftwareApplication",
+            "@id": "{{ $siteURL }}#app",
+            "name": "Plico",
+            "applicationCategory": "UtilitiesApplication",
+            "operatingSystem": "Android",
+            "url": "https://play.google.com/store/apps/details?id=cc.plico.app",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "EUR"
+            },
+            "publisher": { "@id": "{{ $siteURL }}#organization" }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "{{ .Permalink }}",
+            "url": "{{ .Permalink }}",
+            "name": "{{ $pageTitle }}",
+            "description": "{{ $description }}",
+            "inLanguage": "{{ .Site.Language.Lang }}",
+            "isPartOf": { "@id": "{{ $siteURL }}#website" }
+          }
+        ]
+      }
+    </script>
 
     {{ if (fileExists "static/css/tailwind.css") -}}
       <link rel="stylesheet" href="{{ "css/tailwind.css" | relURL }}" />

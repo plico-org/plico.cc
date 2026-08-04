@@ -1,0 +1,26 @@
+# Plico
+
+> Plico is a free iOS and Android app to fill out and sign PDF documents, including with an Italian electronic ID card (CIE). It works locally, on-device, with no account, no ads, and no data collection.
+
+Plico is built for anyone who needs to fill out and sign a PDF without printing it. Documents, signatures, and CIE credentials are processed on the user's device; the only network call the app makes is an OCSP lookup to verify certificate revocation status when checking an existing digital signature. Plico is developed by Luigi Gubello and Massimiliano Pippi.
+
+This site is available in English (`/en/`) and Italian (`/`, the default language).
+
+## Product
+
+- [Homepage (English)](https://plico.cc/en/): What Plico does and links to download the app.
+- [Homepage (Italian)](https://plico.cc/): Italian version of the homepage.
+- [About](https://plico.cc/en/about/): Who builds Plico and why.
+- [Help / FAQ](https://plico.cc/en/help/): Frequently asked questions about using Plico, CIE signing, and troubleshooting.
+
+## Download
+
+- [Plico on Google Play](https://play.google.com/store/apps/details?id=cc.plico.app): Android app listing.
+
+## Legal & policies
+
+- [Privacy Policy](https://plico.cc/en/privacy-policy/): How Plico handles personal data (it doesn't collect any).
+- [Terms and Conditions](https://plico.cc/en/terms-and-conditions/): Terms of use for the app.
+- [Vulnerability Disclosure Policy](https://plico.cc/en/vulnerability-disclosure-policy/): How to report a security issue.
+- [security.txt](https://plico.cc/.well-known/security.txt): Machine-readable security contact, per RFC 9116.
+- [Third-Party Licenses](https://plico.cc/en/third-party-licenses/): Open-source libraries bundled in the app and their licenses.
