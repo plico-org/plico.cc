@@ -15,6 +15,7 @@ This site is available in English (`/en/`) and Italian (`/`, the default languag
 
 ## Download
 
+- [Plico on the App Store](https://apps.apple.com/it/app/plico/id6765624262): iOS app listing.
 - [Plico on Google Play](https://play.google.com/store/apps/details?id=cc.plico.app): Android app listing.
 
 ## Legal & policies

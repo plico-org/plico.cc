@@ -82,7 +82,21 @@
           },
           {
             "@type": "SoftwareApplication",
-            "@id": "{{ $siteURL }}#app",
+            "@id": "{{ $siteURL }}#app-ios",
+            "name": "Plico",
+            "applicationCategory": "UtilitiesApplication",
+            "operatingSystem": "iOS",
+            "url": "https://apps.apple.com/it/app/plico/id6765624262",
+            "offers": {
+              "@type": "Offer",
+              "price": "0",
+              "priceCurrency": "EUR"
+            },
+            "publisher": { "@id": "{{ $siteURL }}#organization" }
+          },
+          {
+            "@type": "SoftwareApplication",
+            "@id": "{{ $siteURL }}#app-android",
             "name": "Plico",
             "applicationCategory": "UtilitiesApplication",
             "operatingSystem": "Android",
