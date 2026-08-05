@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Plico</title>
+		<link>https://plico.cc/en/</link>
+		<description>Recent content on Plico</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<atom:link href="https://plico.cc/en/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>About</title>
+				<link>https://plico.cc/en/about/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plico.cc/en/about/</guid>
+				<description>&lt;h2 id=&#34;why-plico&#34;&gt;Why Plico&lt;/h2&gt;&#xA;&lt;p&gt;Plico is the answer to the question: &amp;ldquo;&lt;em&gt;Is there a &lt;strong&gt;simple&lt;/strong&gt; app to sign PDF documents?&lt;/em&gt;&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;The key to that answer lies in the word &amp;ldquo;&lt;em&gt;simple&lt;/em&gt;&amp;rdquo;: in this context, it takes on different shades of meaning depending on who needs to sign a document. &lt;em&gt;Simple&lt;/em&gt; means &amp;ldquo;Easy to use&amp;rdquo;, &lt;em&gt;Simple&lt;/em&gt; means &amp;ldquo;I don&amp;rsquo;t want to create yet another account on yet another online service that fills my inbox with spam&amp;rdquo;, &lt;em&gt;Simple&lt;/em&gt; means &amp;ldquo;Free&amp;rdquo;, &lt;em&gt;Simple&lt;/em&gt; means &amp;ldquo;My data is mine, and I want it to stay that way&amp;rdquo;, &lt;em&gt;Simple&lt;/em&gt; means &amp;ldquo;I don&amp;rsquo;t want to turn on the printer that can&amp;rsquo;t print anyway because it&amp;rsquo;s out of magenta&amp;rdquo;.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Help</title>
+				<link>https://plico.cc/en/help/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plico.cc/en/help/</guid>
+				<description>&lt;p&gt;Here you&amp;rsquo;ll find answers to the most frequently asked questions about Plico. If you can&amp;rsquo;t find what you&amp;rsquo;re looking for, or just want to say hi, write to us at &lt;a href=&#34;mailto:info@plico.cc&#34;&gt;info@plico.cc&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;frequently-asked-questions&#34;&gt;Frequently asked questions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-is-plico-really-free&#34;&gt;1. Is Plico really free?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Yes, Plico is completely free&lt;/strong&gt;, downloadable from the App Store or Google Play Store, requires no account creation, and contains no ads. Plico was built for people like us who just want to fill out and sign a PDF document quickly and easily, and we want it to stay free, forever :)&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Privacy Policy</title>
+				<link>https://plico.cc/en/privacy-policy/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plico.cc/en/privacy-policy/</guid>
+				<description>&lt;p&gt;Last updated: July 2026.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-overview&#34;&gt;1. Overview&lt;/h2&gt;&#xA;&lt;p&gt;This policy describes the data processing practices for the Plico website (&amp;ldquo;Site&amp;rdquo;) and mobile application for iOS and Android (&amp;ldquo;Application&amp;rdquo;). The Data Controller is represented by the Plico developers, reachable at the contact details provided in the &amp;ldquo;Contact&amp;rdquo; section. Our goal is to minimise data collection and ensure full transparency.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-what-we-dont-do&#34;&gt;2. What We Don&amp;rsquo;t Do&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;No accounts:&lt;/strong&gt; We do not manage user accounts, registrations, or logins.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;No profiling:&lt;/strong&gt; We do not use your data for marketing, advertising, or behavioural profiling purposes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;No trackers:&lt;/strong&gt; We do not embed third-party advertising trackers.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;No selling:&lt;/strong&gt; We do not sell or transfer your data to third parties.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;3-mobile-application-iosandroid&#34;&gt;3. Mobile Application (iOS/Android)&lt;/h2&gt;&#xA;&lt;p&gt;The Plico application is designed according to the &lt;em&gt;privacy by design&lt;/em&gt; principle:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Terms and Conditions</title>
+				<link>https://plico.cc/en/terms-and-conditions/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plico.cc/en/terms-and-conditions/</guid>
+				<description>&lt;p&gt;Last updated: July 2026.&lt;/p&gt;&#xA;&lt;p&gt;The Plico application (hereinafter referred to as &amp;ldquo;the Application&amp;rdquo;) is owned by Luigi Gubello and Massimiliano Pippi (hereinafter referred to as &amp;ldquo;the Owner&amp;rdquo;). Installing and using the Application implies full acceptance of these Terms and Conditions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-license-and-intellectual-property&#34;&gt;1. License and Intellectual Property&lt;/h2&gt;&#xA;&lt;p&gt;The Application is licensed. The following are prohibited, to the extent permitted by applicable law:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Distributing or reselling the Application to third parties.&lt;/li&gt;&#xA;&lt;li&gt;Using the Application for unlawful purposes.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;For information about third-party open-source licenses used in the Application, see the &lt;a href=&#34;https://plico.cc/en/third-party-licenses/&#34;&gt;Third-Party Licenses&lt;/a&gt; page.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Third-Party Licenses</title>
+				<link>https://plico.cc/en/third-party-licenses/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plico.cc/en/third-party-licenses/</guid>
+				<description>&lt;p&gt;Plico is a proprietary application, distributed free of charge. Its source code is not open source, but the Application bundles a number of third-party open-source libraries, listed below together with their license, in compliance with their respective terms.&lt;/p&gt;&#xA;&lt;h2 id=&#34;android-application&#34;&gt;Android Application&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Library&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Author&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;License&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;AndroidX Core, AppCompat, Activity, Lifecycle, Room, Biometric&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Google&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Apache License 2.0&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Jetpack Compose (UI, Material 3, Material Icons Extended)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Google&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Apache License 2.0&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Kotlin Coroutines&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;JetBrains&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Apache License 2.0&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Coil&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Coil Contributors&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Apache License 2.0&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;PdfBox-Android&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Tom Roush (porting of Apache PDFBox)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Apache License 2.0&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Bouncy Castle (bcprov, bcpkix, bcutil)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;The Legion of the Bouncy Castle Inc.&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Bouncy Castle Licence (MIT-style)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;CIE ID Android SDK&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Presidenza del Consiglio dei Ministri / IPZS (Italy)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;BSD 3-Clause&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h2 id=&#34;ios-application&#34;&gt;iOS Application&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;&#x9;&lt;thead&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Library&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;Author&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;th&gt;License&lt;/th&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/thead&gt;&#xA;&#x9;&lt;tbody&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;GRDB.swift&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Gwendal Roué&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;MIT License&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;FontAwesome.swift&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;FontAwesome.swift contributors&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;MIT License&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&#x9;&#x9;&lt;tr&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;OpenSSL-Package&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Marcin Krzyżanowski (OpenSSL packaging)&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&#x9;&#x9;&lt;td&gt;Apache License 2.0&lt;/td&gt;&#xA;&#x9;&#x9;&#x9;&lt;/tr&gt;&#xA;&#x9;&lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;The full text of each license is available in the official repository of the corresponding library.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Vulnerability Disclosure Policy</title>
+				<link>https://plico.cc/en/vulnerability-disclosure-policy/</link>
+				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+				<guid>https://plico.cc/en/vulnerability-disclosure-policy/</guid>
+				<description>&lt;p&gt;Plico is an independent, free project, built from the ground up with a local-first approach focused on protecting the privacy of the people who use it. We develop the iOS and Android apps (cc.plico.app) with as much care as possible, but we know perfect software doesn&amp;rsquo;t exist.&lt;/p&gt;&#xA;&lt;p&gt;If you think you&amp;rsquo;ve found a security bug or vulnerability, write to &lt;a href=&#34;mailto:security@plico.cc&#34;&gt;security@plico.cc&lt;/a&gt;.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
