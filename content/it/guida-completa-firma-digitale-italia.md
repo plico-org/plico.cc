@@ -1,12 +1,10 @@
 ---
 title: La guida completa alla firma digitale in Italia
-description: 
+description: "FES, FEA e FEQ spiegate in parole semplici: quale firma elettronica serve, quando, e come firmare con la CIE."
 ---
 
-# La guida completa alla firma digitale in Italia
-
 Avete mai ricevuto un documento via mail, stampato, firmato a penna, scansionato e inviato di nuovo via email? Succede 
-ancora spesso, anche quando esistono  soluzioni completamente digitali che, nei casi previsti dalla legge, hanno lo 
+ancora spesso, anche quando esistono soluzioni completamente digitali che, nei casi previsti dalla legge, hanno lo 
 stesso valore legale. Il problema non è la tecnologia, è che nessuno spiega con chiarezza cosa si intende davvero per 
 "firma digitale" e quando basta una firma semplice rispetto a quando ne serve una "qualificata".
 
@@ -47,7 +45,7 @@ In altre parole, la verifica permette di controllare **chi ha firmato** e **l'in
 
 ### 1. Firma Elettronica Semplice (FES)
 
-È il livello più basilare. Rientra in questa categoria dati elettronici associati a un documento e utilizzati dal 
+È il livello più basilare. Rientrano in questa categoria i dati elettronici associati a un documento e utilizzati dal 
 firmatario per firmarlo, senza i requisiti aggiuntivi richiesti per le firme avanzate o qualificate.
 
 **Esempi di FES in Italia:**
@@ -71,7 +69,7 @@ complicato, perché chiunque potrebbe tecnicamente fare una foto di una firma al
 - collegata al documento in modo che ogni modifica successiva sia rilevabile
 
 In pratica, la FEA offre garanzie più forti sul collegamento tra la persona e il documento firmato, riducendo il rischio 
-che qualcun altro firmi al posto tuo.
+che qualcun altro firmi al posto del firmatario.
 
 **Esempi di FEA in Italia:**
 - Firma apposta con la **Carta d'Identità Elettronica (CIE)** tramite NFC e PIN personale
@@ -106,12 +104,12 @@ Per essere qualificata, la firma deve:
 - Essere creata con un **dispositivo qualificato di creazione della firma** (smart card, token USB certificato, 
   o sistema di firma remota)
 - Basarsi su un **certificato qualificato** rilasciato da un **prestatore di servizi fiduciari qualificato** (come 
-  Aruba, Infocert, Namirial), iscritto nell'elenco europeo eIDAS
+  Aruba, InfoCert, Namirial), iscritto nell'elenco europeo eIDAS
 
 **Strumenti comuni per la FEQ in Italia:**
 - **Smart card di firma**, anche abbinate alla CNS: devono contenere un certificato qualificato di firma; il solo 
   certificato di autenticazione CNS non basta
-- **Token USB**: chiavette certificate rilasciate da provider come Aruba o Infocert
+- **Token USB**: chiavette certificate rilasciate da provider come Aruba o InfoCert
 - **Firma remota**: firma via app o web, con autenticazione OTP, offerta da provider qualificati
 
 **Quando è obbligatoria la FEQ?**  
@@ -119,7 +117,7 @@ In Italia, la firma digitale è richiesta per determinate pratiche, secondo le r
 - Determinate pratiche con la **pubblica amministrazione** (appalti, SUAP, pratiche catastali)
 - Deposito di **atti giudiziari telematici** (processo civile telematico, PCT)
 - Iscrizioni al **Registro Imprese**
-- Offerte nelle **gare d'appalto pubbliche** (portale MEPA, Consip)
+- Offerte nelle **gare d'appalto pubbliche** (es. il MEPA, gestito da Consip)
 - **Fatturazione elettronica verso la PA**
 
 Per le fatture elettroniche tra privati (B2B e B2C), la firma digitale non è generalmente obbligatoria. Anche per le 
@@ -135,12 +133,12 @@ La **Carta d'Identità Elettronica (CIE)** è uno degli strumenti più interessa
 cittadini italiani adulti e permette di firmare senza acquistare un certificato qualificato, usando un dispositivo 
 compatibile.
 
-La CIE contiene un chip NFC (lo stesso che consente i pagamenti contactless con le carte di credito) che protegge la 
+La CIE contiene un chip NFC (la stessa tecnologia dei pagamenti contactless con le carte di credito) che protegge la 
 chiave privata e un certificato digitale che identifica il titolare. La carta permette sia di identificarsi online, sia 
 di creare firme elettroniche avanzate (FEA) con un'app compatibile, come spiegato dal 
 [Ministero dell'Interno](https://www.cartaidentita.interno.gov.it/info-utili/firma-con-cie/).
 
-Quando si avvia la firma nell'app, si avvicina la CIE allo smartphone e si inserisce il PIN, si firma il documento con 
+Avviata la firma nell'app, si avvicina la CIE allo smartphone e si inserisce il PIN: il documento viene firmato con 
 una **Firma Elettronica Avanzata (FEA)**. Questo livello può essere usato per molti contratti privati, con i limiti 
 descritti sopra.
 
@@ -197,7 +195,7 @@ d'uso.
 | **[Dropbox Sign](https://help.dropbox.com/plans/dropbox-sign-and-eid)** | Firme elettroniche e opzioni di identificazione eID | Servizio cloud; disponibilità e livello delle firme dipendono dall'opzione eID e dal piano | Dipende dal piano e dalle opzioni |
 | **[Namirial Sign](https://servicedesk.namirial.com/hc/it/articles/6417235289489-Namirial-Sign-Info-App)** | Firma digitale con dispositivo fisico o remoto e verifica dei documenti | Versioni web, desktop e mobile; controllare le funzioni della versione scelta | Dipende dai servizi di firma acquistati |
 | **[Aruba Sign](https://guide.aruba.it/trust-services/firma/firma-digitale/as-windows-mac)** | Firma digitale e verifica dei documenti | Per firmare occorre un dispositivo o un servizio di firma compatibile | Software gratuito; dispositivo o servizio di firma separato |
-| **[Infocert Sign](https://www.infocert.it/firma-digitale/infocert-sign)** | Firma digitale, verifica e marche temporali | Funzioni disponibili secondo versione e servizi attivati | Funzioni gratuite e offerte a pagamento |
+| **[InfoCert Sign](https://www.infocert.it/firma-digitale/infocert-sign)** | Firma digitale, verifica e marche temporali | Funzioni disponibili secondo versione e servizi attivati | Funzioni gratuite e offerte a pagamento |
 
 **Note sulla tabella:**
 
@@ -252,7 +250,7 @@ tipo di firma, senza stampare nulla e senza caricare i propri documenti riservat
 
 - [Regolamento (UE) n. 910/2014 (eIDAS), in particolare artt. 3, 25 e 26](https://eur-lex.europa.eu/eli/reg/2014/910/oj/ita), come modificato dal [Regolamento (UE) 2024/1183](https://eur-lex.europa.eu/eli/reg/2024/1183/oj/ita)
 - [D.Lgs. 7 marzo 2005, n. 82 — Codice dell'Amministrazione Digitale](https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2005-03-07;82), in particolare artt. 1, 20, 21 e 65
-- [DPCM 22 febbraio 2013 — Regole tecniche sulle firme elettroniche](https://www.gazzettaufficiale.it/eli/id/2013/05/21/13A04284/sg), in particolare artt. 56–61 per la FEA
+- [DPCM 22 febbraio 2013 — Regole tecniche sulle firme elettroniche](https://www.gazzettaufficiale.it/eli/id/2013/05/21/13A04284/sg), in particolare artt. 55–61 per la FEA
 - [Ministero dell'Interno — Firma con CIE](https://www.cartaidentita.interno.gov.it/info-utili/firma-con-cie/)
 - [AgID — Servizi fiduciari qualificati](https://www.agid.gov.it/it/piattaforme/firma-elettronica-qualificata)
 - [Regolamento (UE) 2016/679 (GDPR)](https://eur-lex.europa.eu/eli/reg/2016/679/oj/ita), in particolare artt. 28, 32 e 44 e seguenti
